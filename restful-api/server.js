@@ -134,7 +134,9 @@ app.use(function (err, req, res, next) {
 });
 function hey()
 {
-	  console.log("T123")
+	  console.log("T12312313")
+	  if(true)
+		  console.log("heya")
 	   console.log("T2123")
 }
 
