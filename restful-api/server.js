@@ -138,11 +138,6 @@ function hey()
 	   console.log("T2123")
 }
 
-function hey()
-{
-	  console.log("T12qe3")
-	   console.log("T21qweqeq23")
-}
 var server = app.listen(8081, function () {
 
   var host = server.address().address
